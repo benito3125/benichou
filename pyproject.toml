@@ -1,0 +1,18 @@
+[project]
+name = "DevSecOps_TP_01"
+version = "1.0.0"
+authors = [
+  { name="Guillain SANCHEZ", email="guillain@airbus.com" },
+]
+description = "A small example package based on Flask"
+readme = "README.md"
+requires-python = ">=3.7"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = "https://gitlab.2b82-devops.aws.cloud.airbus-v.corp/cyberacademy/devsecops_tp_01"
+"Bug Tracker" = "https://gitlab.2b82-devops.aws.cloud.airbus-v.corp/cyberacademy/devsecops_tp_01/-/issues"
